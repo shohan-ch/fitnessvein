@@ -12,8 +12,8 @@ I use for FrontEnd Design
 
 And BackEnd Development
 
-✓ PHP
-✓ Mysql
+- ✓ PHP
+- ✓ Mysql
 
 👉🏻 [Demo](https://fitnessvein.com/)
 
