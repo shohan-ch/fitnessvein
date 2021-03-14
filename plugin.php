@@ -1,0 +1,6 @@
+<!------Plug in------>
+<script src="js/jquery-3.4.1.min.js"></script>
+<script src="js/bootstrap.bundle.min.js"></script>
+<script src="js/owl.carousel.min.js"></script>
+<script src="js/jquery.floating-social-share.min.js"></script>
+<script src="js/main.js"></script>

@@ -1,0 +1,99 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    text-align: left;
+    background-color: #F8F9FC;
+    box-sizing: border-box;
+}
+.side-bar {
+    position: fixed;
+    min-width: 180px;
+    height: 100%;
+    background-color: #4167D5;
+    top: 0;
+    left: 0;
+    display: block;
+    color: #fff;
+    z-index: 100;
+    overflow: hidden;
+}
+
+.side-bar a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.dropdown-menu.show {
+    display: block;
+    transform: translate(-61px);
+}
+
+.container-fluid {
+    padding-left: 250px !important;
+    padding-right: 22px !important;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin-top: 0 !important;
+    margin-bottom: 5px !important;
+}
+
+footer {
+ 
+    padding: 30px;
+}
+
+
+.form-control-user{
+    border-radius: 25px;
+    padding: 20px;
+}
+.form-control-user-btn{
+    padding: 10px;
+    border-radius: 25px;
+
+}
+.col-md-8 > input{
+    margin-bottom: 9px;
+}
+.col-md-8 > textarea{
+    margin-bottom: 9px;
+}
+.productnav{
+    background-color: #4167D5;
+    height: 50px;
+    line-height: 45px;
+    font-size: 20px;
+}
+.productnav ul li{
+display: inline;
+
+}
+
+.productnav a{
+    text-decoration: none;
+    color: #fff;
+    margin-right: 25px;
+
+}
+
+.image-row .form-control {
+    margin-bottom: 9px;
+}
+.star{
+    font-size: 27px;
+    color: #4167D5 !important;
+
+}
+table{
+    table-layout: fixed;
+}
